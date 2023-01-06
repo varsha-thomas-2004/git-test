@@ -1,3 +1,4 @@
 First time using git!
 Hello world!
 It's great!
+Eureka, It's cool like I'm cool.
