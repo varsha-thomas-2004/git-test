@@ -1,1 +1,2 @@
-first git
+First time using git!
+Hello world!
