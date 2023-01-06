@@ -1,2 +1,3 @@
 First time using git!
 Hello world!
+It's great!
